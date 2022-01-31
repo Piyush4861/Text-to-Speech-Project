@@ -1,2 +1,2 @@
-# Text-to-Speech-Project
+# Translator
 Welcome to the Repo.
