@@ -1,5 +1,3 @@
-# iReader (Text-to-Speech)
-
 # Industry Name:- Ed-Tech
 
 # Title:- “iReader (Text-to-Speech)”
