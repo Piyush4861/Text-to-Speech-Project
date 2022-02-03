@@ -19,6 +19,7 @@ iReader is a "Text-to-Speech" web application that converts any written text int
 • Reduce searching time.
 • Gets proper pronouncation in required language. 
 • Effective by listning real voice.
+• Easy to use.
 
 # Primary Azure Services:- 
 • Visual Studio Code 
