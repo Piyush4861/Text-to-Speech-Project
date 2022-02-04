@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'iReader-Text-to-Speech'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6F6A9B98AA4547EE8293B503952C6C27 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_981DE07C93C842A194D1310E662A236B }}
           package: .
