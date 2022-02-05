@@ -1,4 +1,6 @@
-# Project Url:- https://ireader-text-to-speech.azurewebsites.net/
+# Project Url 1 :- https://ireader-text-to-speech.azurewebsites.net/
+
+# Project Url 2 :- https://piyush4861.github.io/iReader-Text-to-Speech-/
 
 # Industry Name:- Ed-Tech
 
